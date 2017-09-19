@@ -1,6 +1,7 @@
 class Contact:
     def __init__(self, name, phone_number, gender, email_address, postal_address):
         # address_book = {'George': ['0707187390', 'M', 'georgeosodo2010@gmail.com']}
+
         self.name = name
         self.phone_number = phone_number
         self.gender = gender
